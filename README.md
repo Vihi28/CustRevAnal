@@ -4,3 +4,6 @@ This is useful in any situations like positive, negative comments, so we can ana
 It can be used to understand the hidden sentiments of customers in their feedback and comments and analyze their products rating pattern. </br>
 It is an ML based project that is deployed on heroku.</br></br>
 Link: https://cust-rev-anal.herokuapp.com/
+
+Test:
+https://github-readme-stats.vercel.app/api?username=vihi28
