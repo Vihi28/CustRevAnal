@@ -6,4 +6,5 @@ It is an ML based project that is deployed on heroku.</br></br>
 Link: https://cust-rev-anal.herokuapp.com/
 
 Test:
-https://github-readme-stats.vercel.app/api?username=vihi28
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=vihi28)](https://github.com/vihi28/github-readme-stats)
+
